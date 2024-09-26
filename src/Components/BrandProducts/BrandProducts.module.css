@@ -1,0 +1,18 @@
+.loaderContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+.Card {
+    margin: 10px;
+    text-align: center;
+  }
+  
+.CardImg {
+    max-height: 200px;
+    object-fit: cover;
+    height: auto;
+  }
+  

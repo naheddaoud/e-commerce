@@ -1,0 +1,11 @@
+.categoryCard {
+    margin: 10px;
+    text-align: center;
+  }
+  
+.categoryCard img {
+    max-height: 200px;
+    object-fit: cover;
+    height: auto;
+  }
+  

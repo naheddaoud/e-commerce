@@ -1,0 +1,9 @@
+.loaderContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+.body{
+    background-color: rgb(255, 228, 196) !important;
+}
